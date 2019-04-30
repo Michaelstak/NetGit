@@ -16,7 +16,6 @@ public class Ginit {
      */
     public static void main(String[] args) {
         System.out.println("Quiero shorar");
-        System.out.println("Quien eres tu >:c");
     }
     
 }
